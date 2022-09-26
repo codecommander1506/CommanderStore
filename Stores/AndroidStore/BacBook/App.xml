@@ -7,14 +7,11 @@
     <Description>Cours de terminales S gratos :)</Description>
     
     <Release type="Stable">
-        <Comment>Desormais il est possible d'enregistrer les blagues</Comment>
+        <Comment>Essayez l'appli !</Comment>
         <File>releases/Blagues-1.0.0.apk</File>
         <Date>26/09/2022</Date>
     </Release>
     
     <Screenshots>
-        <Screenshot>screenshots/Screenshot_20220924-155755.png</Screenshot>
-        <Screenshot>screenshots/Screenshot_20220924-160649.png</Screenshot>
-        <Screenshot>screenshots/Screenshot_20220924-160827.png</Screenshot>
     </Screenshots>
 </App>
