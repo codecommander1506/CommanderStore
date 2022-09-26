@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<App version="1.0">
+    <Icon>logo.png</Icon>
+    <Name>BacBook</Name>
+    <Version>1.0.0</Version>
+    <Description>Cours de terminales S gratos :)</Description>
+    
+    <Release type="Stable">
+        <Comment>Desormais il est possible d'enregistrer les blagues</Comment>
+        <File>releases/Blagues-1.0.0.apk</File>
+        <Date>26/09/2022</Date>
+    </Release>
+    
+    <Screenshots>
+        <Screenshot>screenshots/Screenshot_20220924-155755.png</Screenshot>
+        <Screenshot>screenshots/Screenshot_20220924-160649.png</Screenshot>
+        <Screenshot>screenshots/Screenshot_20220924-160827.png</Screenshot>
+    </Screenshots>
+</App>
