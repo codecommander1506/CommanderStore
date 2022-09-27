@@ -8,10 +8,13 @@
     
     <Release type="Stable">
         <Comment>Essayez l'appli !</Comment>
-        <File>releases/Blagues-1.0.0.apk</File>
+        <File>releases/BacBook-1.0.0.apk</File>
         <Date>26/09/2022</Date>
     </Release>
     
     <Screenshots>
+        <Screenshot>screenshots/Screenshot_20220927-094328.png</Screenshot>
+        <Screenshot>screenshots/Screenshot_20220927-094338.png</Screenshot>
+        <Screenshot>screenshots/Screenshot_20220927-094348.png</Screenshot>
     </Screenshots>
 </App>
