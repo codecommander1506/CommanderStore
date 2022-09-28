@@ -4,10 +4,10 @@
     <Icon>logo.png</Icon>
     <Name>Blagues</Name>
     <Version>1.0.0</Version>
-    <Description>Envie de rire ? alors viens en mourir :)</Description>
+    <Description>Envie de rire ou juste de se détendre avec de bonnes blagues françaises ? alors l'appli Blagues est faite pour toi, contient également des blagues pour développeurs (optionnel)</Description>
     
     <Release type="Stable">
-        <Comment>Desormais il est possible d'enregistrer les blagues</Comment>
+        <Comment>Essayez l'appli !</Comment>
         <File>releases/Blagues-1.0.0.apk</File>
         <Date>26/09/2022</Date>
     </Release>
