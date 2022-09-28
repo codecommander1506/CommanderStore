@@ -5,6 +5,7 @@
     <Name>Blagues</Name>
     <Version>1.0.0</Version>
     <Description>Envie de rire ou juste de se détendre avec de bonnes blagues françaises ? alors l'appli Blagues est faite pour toi, contient également des blagues pour développeurs (optionnel)</Description>
+    <Category>Divertissement</Category>
     
     <Release type="Stable">
         <Comment>Essayez l'appli !</Comment>
