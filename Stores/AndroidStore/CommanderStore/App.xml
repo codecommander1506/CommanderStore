@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<App version="1.0">
+    <Icon>logo.png</Icon>
+    <Name>Commander Store</Name>
+    <Version>1.0.0</Version>
+    <Description>Besoin des applis made by Commander ? alors la Commander Store est ce qu'il vous faut 😉️ !</Description>
+    <Category>Utilitaires</Category>
+    
+    <Release type="Beta">
+        <Comment>Essayez l'appli !</Comment>
+        <File>releases/CommanderStore-1.0.0.apk</File>
+        <Date>29/09/2022</Date>
+    </Release>
+    
+    <!--<Screenshots>
+        <Screenshot>screenshots/Screenshot_20220924-155755.png</Screenshot>
+        <Screenshot>screenshots/Screenshot_20220924-160649.png</Screenshot>
+        <Screenshot>screenshots/Screenshot_20220924-160827.png</Screenshot>
+    </Screenshots>-->
+</App>

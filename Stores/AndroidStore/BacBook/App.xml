@@ -25,8 +25,14 @@
     </Release>
     
     <Screenshots>
-        <Screenshot>screenshots/Screenshot_20220927-094328.png</Screenshot>
-        <Screenshot>screenshots/Screenshot_20220927-094338.png</Screenshot>
-        <Screenshot>screenshots/Screenshot_20220927-094348.png</Screenshot>
+        <Screenshot>screenshots/Screenshot1.png</Screenshot>
+        <Screenshot>screenshots/Screenshot2.png</Screenshot>
+        <Screenshot>screenshots/Screenshot3.png</Screenshot>
+        <Screenshot>screenshots/Screenshot4.png</Screenshot>
+        <Screenshot>screenshots/Screenshot5.png</Screenshot>
+        <Screenshot>screenshots/Screenshot6.png</Screenshot>
+        <Screenshot>screenshots/Screenshot7.png</Screenshot>
+        <Screenshot>screenshots/Screenshot8.png</Screenshot>
+        <Screenshot>screenshots/Screenshot9.png</Screenshot>
     </Screenshots>
 </App>
