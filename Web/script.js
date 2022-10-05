@@ -1,6 +1,6 @@
 function init(version)
 {
-    var baseUrl = 'Stores/AndroidStore/v' + version + '/CommanderStore';
+    var baseUrl = '../Stores/AndroidStore/v' + version + '/CommanderStore';
     
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
@@ -13,12 +13,28 @@ function init(version)
 
 function processData(baseUrl, xhttp)
 {
-    alert(xhttp.responseText);
-    alert(baseUrl);
+    parser = new DOMParser();
+    doc = parser.parseFromString(xhttp.responseText, "text/xml");
+    app = doc.getElementsByTagName('App')[0];
+    releases = doc.getElementsByTagName('Release');
+    release = releases[releases.length - 1];
     
     var logo = document.getElementById('logo');
-    logo.src = baseUrl + '/';
+    logo.src = baseUrl + '/' + elementText(app.getElementsByTagName('Icon')[0]);
     
     var link = document.getElementById('download');
-    link.href = baseUrl + '/';
+    link.href = baseUrl + '/' + elementText(release.getElementsByTagName('File')[0]);
+    
+    var versionText = document.createTextNode(elementText(release.getElementsByTagName('Version')[0]));
+    var version = document.getElementById('version');
+    version.appendChild(versionText);
+    
+    var typeText = document.createTextNode(release.getAttribute('type'));
+    var type = document.getElementById('type');
+    type.appendChild(typeText);
+}
+
+function elementText(e)
+{
+    return e.childNodes[0].nodeValue;
 }
