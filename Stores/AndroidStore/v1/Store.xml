@@ -3,4 +3,5 @@
 <Store version="1.0">
     <App>BacBook</App>
     <App>Blagues</App>
+    <App>CommanderStore</App>
 </Store>
