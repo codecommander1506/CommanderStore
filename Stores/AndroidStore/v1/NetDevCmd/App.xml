@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<App version="1.0">
+    <Icon>logo.png</Icon>
+    <Name>NetDevCmd</Name>
+    <Description>Appli de génération de script de configuration de routeur et de commutateur réseau CISCO</Description>
+    <Category>Utilitaires</Category>
+    
+    <Screenshots>
+        <Screenshot>screenshots/Screenshot1.png</Screenshot>
+        <Screenshot>screenshots/Screenshot2.png</Screenshot>
+        <Screenshot>screenshots/Screenshot3.png</Screenshot>
+        <Screenshot>screenshots/Screenshot4.png</Screenshot>
+        <Screenshot>screenshots/Screenshot5.png</Screenshot>
+        <Screenshot>screenshots/Screenshot6.png</Screenshot>
+        <Screenshot>screenshots/Screenshot7.png</Screenshot>
+    </Screenshots>
+    
+    <Release>
+        <Comment>Essayez l'appli !</Comment>
+        <Version>1.0</Version>
+        <File>NetDevCmd_1.0.apk</File>
+        <Date>20/11/2022</Date>
+    </Release>
+</App>
