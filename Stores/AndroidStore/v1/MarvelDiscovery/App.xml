@@ -8,6 +8,7 @@
     <Category>Divertissement</Category>
     
     <Release type="Stable">
+        <Version>1.0</Version>
         <Comment>Essayez l'appli et découvrez l'univers Marvel !</Comment>
         <File>releases/MarvelDiscovery-1.0.0.apk</File>
         <Date>17/03/2022</Date>

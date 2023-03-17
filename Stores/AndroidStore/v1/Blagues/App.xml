@@ -8,6 +8,7 @@
     <Category>Divertissement</Category>
     
     <Release type="Stable">
+        <Version>1.0</Version>
         <Comment>Essayez l'appli !</Comment>
         <File>releases/Blagues-1.0.0.apk</File>
         <Date>26/09/2022</Date>
